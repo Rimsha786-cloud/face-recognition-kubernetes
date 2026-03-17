@@ -33,3 +33,31 @@ User → Kubernetes Service → Pod → Docker Container → Flask App → OpenC
 ## ▶️ Steps to Run
 
 1. Start Minikube
+2. Build Docker Image
+3. Deploy to Kubernetes
+4. Access Application
+
+   
+---
+
+## 📷 Output
+<img width="2879" height="764" alt="image" src="https://github.com/user-attachments/assets/d7dcdffd-0432-45e7-a442-ab387185effc" />
+<img width="762" height="143" alt="image" src="https://github.com/user-attachments/assets/7e27bcdd-166e-4384-ae23-1de3d308b130" />
+
+
+- Web UI for image upload
+- Displays detected faces count
+- Shows processed image with bounding boxes
+
+(Add screenshots here)
+
+---
+
+## ✅ Result
+The Face Recognition application was successfully deployed using Docker containers and Kubernetes, demonstrating scalable AI deployment.
+
+---
+
+## 📚 Conclusion
+This project shows how AI applications can be containerized and deployed in a scalable environment using Kubernetes.
+
